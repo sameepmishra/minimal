@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-Office 365 Professional
+# Office 365 Professional
 
 Delivered many Office 365 migration projects successfully with 99% accuracy. Projected involved Data Analysis of source data mailboxes data, making project delivery stages & dates, writing automation scripts to perform the migration and running the migrations from backend using automated scripts. 
 
